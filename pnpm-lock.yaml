@@ -1,0 +1,22 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/node': ^18.14.2
+  bson: ^5.0.1
+
+dependencies:
+  bson: 5.0.1
+
+devDependencies:
+  '@types/node': 18.14.2
+
+packages:
+
+  /@types/node/18.14.2:
+    resolution: {integrity: sha512-1uEQxww3DaghA0RxqHx0O0ppVlo43pJhepY51OxuQIKHpjbnYLA7vcdwioNPzIqmC2u3I/dmylcqjlh0e7AyUA==}
+    dev: true
+
+  /bson/5.0.1:
+    resolution: {integrity: sha512-y09gBGusgHtinMon/GVbv1J6FrXhnr/+6hqLlSmEFzkz6PodqF6TxjyvfvY3AfO+oG1mgUtbC86xSbOlwvM62Q==}
+    engines: {node: '>=14.20.1'}
+    dev: false
